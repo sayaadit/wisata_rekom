@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteBase /crsgo_original/
+RewriteRule ^$ index.php [L]
+RewriteCond $1 !^(themes|api|index.php|css|uploads|assets|kasir|cdn|tools)
+RewriteRule ^(.*)$ index.php/$1 [L]

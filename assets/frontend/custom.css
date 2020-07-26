@@ -1,0 +1,218 @@
+.td_block_big_grid_5 .td-big-grid-post-custom {
+    width: 25% !important;
+}
+
+.td-header-style-5 {
+	background:url('images/bg.jpg');
+}
+.td-header-style-5 .td-header-menu-wrap-full {
+    background:transparent;
+	
+}
+.td-header-style-5 .td-header-top-menu-full {
+    /*background-color: #A7232E;*/
+	background:#0277BD;
+	border-bottom:solid 1px #0D47A1;
+}
+.td-header-style-5 .td-header-top-menu-full .td-header-top-menu {
+    color: #fff;
+}
+.td-header-style-5 .td-header-top-menu-full a {
+    color: #fff;
+}
+.td-header-style-5 .td-header-top-menu-full a:hover {
+    color: #FFFF00;
+}
+.td-header-style-5 .td-social-icon-wrap .td-icon-font {
+    color: #fff;
+}
+.td-header-style-5 .td-affix {
+    background:url('images/bg.jpg');
+}
+
+.td-header-style-1 {
+	background:url('images/bg2.jpg');
+	background-repeat:repeat-x;
+}
+.td-header-style-1 .td-header-menu-wrap-full {
+    background:transparent;
+}
+.td-header-style-1 .td-logo-wrap-full {
+    background:transparent;
+}
+.td-header-style-1 .td-header-top-menu-full {
+    /*background-color: #A7232E;*/
+	background:#0277BD;
+	border-bottom:solid 1px #0D47A1;
+}
+.td-header-style-1 .td-header-top-menu-full .td-header-top-menu {
+    color: #fff;
+}
+.td-header-style-1 .td-header-top-menu-full a {
+    color: #fff;
+}
+.td-header-style-1 .td-header-top-menu-full a:hover {
+    color: #FFFF00;
+}
+.td-header-style-1 .td-social-icon-wrap .td-icon-font {
+    color: #fff;
+}
+.td-header-style-1 .td-affix {
+    background:url('images/bg2.jpg');
+}
+
+
+.td-header-wrap .y-menu .sf-menu > .current-menu-item > a, .td-header-wrap .y-menu .sf-menu > .current-menu-ancestor > a, .td-header-wrap .y-menu .sf-menu > .current-category-ancestor > a, .td-header-wrap .y-menu .sf-menu > li > a:hover, .td-header-wrap .y-menu .sf-menu > .sfHover > a, .td-header-style-12 .td-header-menu-wrap-full, .sf-menu > .current-menu-item > a::after, .sf-menu > .current-menu-ancestor > a::after, .sf-menu > .current-category-ancestor > a::after, .sf-menu > li:hover > a::after, .sf-menu > .sfHover > a::after, .td-header-style-12 .td-affix, .header-search-wrap .td-drop-down-search::after, .header-search-wrap .td-drop-down-search .btn:hover, input[type="submit"]:hover, .td-read-more a, .td-post-category:hover, .td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category, .td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category, .td_top_authors .td-active .td-author-post-count, .td_top_authors .td-active .td-author-comments-count, .td_top_authors .td_mod_wrap:hover .td-author-post-count, .td_top_authors .td_mod_wrap:hover .td-author-comments-count, .td-404-sub-sub-title a:hover, .td-search-form-widget .wpb_button:hover, .td-rating-bar-wrap div, .td_category_template_3 .td-current-sub-category, .dropcap, .td_wrapper_video_playlist .td_video_controls_playlist_wrapper, .wpb_default, .wpb_default:hover, .td-left-smart-list:hover, .td-right-smart-list:hover, .woocommerce-checkout .woocommerce input.button:hover, .woocommerce-page .woocommerce a.button:hover, .woocommerce-account div.woocommerce .button:hover, #bbpress-forums button:hover, .bbp_widget_login .button:hover, .td-footer-wrapper .td-post-category, .td-footer-wrapper .widget_product_search input[type="submit"]:hover, .woocommerce .product a.button:hover, .woocommerce .product #respond input#submit:hover, .woocommerce .checkout input#place_order:hover, .woocommerce .woocommerce.widget .button:hover, .single-product .product .summary .cart .button:hover, .woocommerce-cart .woocommerce table.cart .button:hover, .woocommerce-cart .woocommerce .shipping-calculator-form .button:hover, .td-next-prev-wrap a:hover, .td-load-more-wrap a:hover, .td-post-small-box a:hover, .page-nav .current, .page-nav:first-child > div, .td_category_template_8 .td-category-header .td-category a.td-current-sub-category, .td_category_template_4 .td-category-siblings .td-category a:hover, #bbpress-forums .bbp-pagination .current, #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a, .td-theme-slider:hover .slide-meta-cat a, a.vc_btn-black:hover, .td-trending-now-wrapper:hover .td-trending-now-title, .td-scroll-up, .td-smart-list-button:hover, .td-weather-information::before, .td-weather-week::before, .td_block_exchange .td-exchange-header::before, .td_block_big_grid_9.td-grid-style-1 .td-post-category, .td_block_big_grid_9.td-grid-style-5 .td-post-category, .td-grid-style-6.td-hover-1 .td-module-thumb::after, .td-pulldown-syle-2 .td-subcat-dropdown ul::after, .td_block_template_9 .td-block-title::after, .td_block_template_15 .td-block-title::before {
+    background-color: #0D47A1;
+	color:#fff;
+}
+.sf-menu ul .td-menu-item > a:hover, .sf-menu ul .sfHover > a, .sf-menu ul .current-menu-ancestor > a, .sf-menu ul .current-category-ancestor > a, .sf-menu ul .current-menu-item > a {
+    background-color: #0D47A1;
+	color:#fff;
+}
+
+/**********************************
+  * RED
+***********************************/
+body .td_color_red .td_module_wrap:hover .entry-title a,
+body .td_color_red .td-pulldown-filter-link:hover,
+body .td_color_red .td-subcat-item a:hover,
+body .td_color_red .td-subcat-item .td-cur-simple-item,
+body .td_color_red .td_quote_on_blocks,
+body .td_color_red .td-opacity-cat .td-post-category:hover,
+body .td_color_red .td-opacity-read .td-read-more a:hover,
+body .td_color_red .td-opacity-author .td-post-author-name a:hover,
+body .td_color_red .td-instagram-user a {
+	color:#B71C1C
+}
+
+body .td_color_red .td-next-prev-wrap a:hover,
+body .td_color_red .td-load-more-wrap a:hover{
+	background-color:#B71C1C;
+	border-color:#B71C1C
+}
+
+body .td_color_red .block-title>*,
+body .td_color_red .td-trending-now-title,
+body .td_color_red .td-read-more a,
+body .td_color_red .td-weather-information:before,
+body .td_color_red .td-weather-week:before,
+body .td_color_red .td-subcat-dropdown:hover .td-subcat-more,
+body .td_color_red .td-exchange-header:before,
+body .td-footer-wrapper .td_color_red .td-post-category,
+body .td_color_red .td-post-category:hover{
+	background-color:#B71C1C;
+	color:#fff;
+}
+
+body .td-footer-wrapper .td_color_red .block-title>*{
+	padding:6px 7px 5px;line-height:1
+}
+
+body .td_color_red .block-title{
+	border-color:#B71C1C
+}
+
+/**********************************
+  * GOLD
+***********************************/
+body .td_color_gold .td_module_wrap:hover .entry-title a,
+body .td_color_gold .td-pulldown-filter-link:hover,
+body .td_color_gold .td-subcat-item a:hover,
+body .td_color_gold .td-subcat-item .td-cur-simple-item,
+body .td_color_gold .td_quote_on_blocks,
+body .td_color_gold .td-opacity-cat .td-post-category:hover,
+body .td_color_gold .td-opacity-read .td-read-more a:hover,
+body .td_color_gold .td-opacity-author .td-post-author-name a:hover,
+body .td_color_gold .td-instagram-user a {
+	color:#f9c100;
+}
+
+body .td_color_gold .td-next-prev-wrap a:hover,
+body .td_color_gold .td-load-more-wrap a:hover{
+	background-color:#f9c100;
+	border-color:#f9c100;
+}
+
+body .td_color_gold .block-title>*,
+body .td_color_gold .td-trending-now-title,
+body .td_color_gold .td-read-more a,
+body .td_color_gold .td-weather-information:before,
+body .td_color_gold .td-weather-week:before,
+body .td_color_gold .td-subcat-dropdown:hover .td-subcat-more,
+body .td_color_gold .td-exchange-header:before,
+body .td-footer-wrapper .td_color_gold .td-post-category,
+body .td_color_gold .td-post-category:hover{
+	background-color:#f9c100;
+}
+
+body .td-footer-wrapper .td_color_gold .block-title>*{
+	padding:6px 7px 5px;line-height:1
+}
+
+body .td_color_gold .block-title{
+	border-color:#f9c100
+}
+
+/**********************************
+  * Blue
+***********************************/
+body .td_color_blue .td_module_wrap:hover .entry-title a,
+body .td_color_blue .td-pulldown-filter-link:hover,
+body .td_color_blue .td-subcat-item a:hover,
+body .td_color_blue .td-subcat-item .td-cur-simple-item,
+body .td_color_blue .td_quote_on_blocks,
+body .td_color_blue .td-opacity-cat .td-post-category:hover,
+body .td_color_blue .td-opacity-read .td-read-more a:hover,
+body .td_color_blue .td-opacity-author .td-post-author-name a:hover,
+body .td_color_blue .td-instagram-user a {
+	color:#0D47A1;
+}
+
+body .td_color_blue .td-next-prev-wrap a:hover,
+body .td_color_blue .td-load-more-wrap a:hover{
+	background-color:#0D47A1;
+	border-color:#0D47A1;
+}
+
+body .td_color_blue .block-title>*,
+body .td_color_blue .td-trending-now-title,
+body .td_color_blue .td-read-more a,
+body .td_color_blue .td-weather-information:before,
+body .td_color_blue .td-weather-week:before,
+body .td_color_blue .td-subcat-dropdown:hover .td-subcat-more,
+body .td_color_blue .td-exchange-header:before,
+body .td-footer-wrapper .td_color_blue .td-post-category,
+body .td_color_blue .td-post-category:hover{
+	background-color:#0D47A1;
+}
+
+body .td-footer-wrapper .td_color_blue .block-title>*{
+	padding:6px 7px 5px;line-height:1
+}
+
+body .td_color_blue .block-title{
+	border-color:#0D47A1
+}
+
+/*end*/
+
+.sf-menu > li > a {
+	color:#fff;
+}
+
+.td-header-style-1 .header-search-wrap .td-icon-search {
+    color: #fff;
+}
+
+.page-nav .current {
+	border-color:#093477
+}
+
+
+
+@media (max-width:767px){
+.td-header-wrap .td-header-menu-wrap-full, .td-header-wrap .td-header-menu-wrap, .td-header-wrap .td-header-main-menu {
+    background:url('images/bg.jpg') !important;
+}
+}

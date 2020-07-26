@@ -1,0 +1,76 @@
+.cat-maps .grid-offer-text p {
+	min-height:40px;
+}
+.cat-maps .grid-offer-text {
+	padding:10px 20px 0px 20px;
+}
+.cat-maps .price-grid-cont {
+	padding:10px 20px 10px 20px;
+}
+.cat-maps .price-grid-cont {
+	border-width: 0px 1px 1px 1px;
+}
+.cat-maps .grid-price-label {
+	width:100%;
+	font-size:14px;
+	font-weight:500;
+	line-height:inherit;
+}
+.cat-maps .grid-offer-title {
+	font-size:13px
+}
+.cat-maps .grid-area span, .cat-maps .grid-rooms span, .cat-maps .grid-baths span {
+    margin: 0 10px 0 15px;
+}
+.cat-maps .grid-area {
+    width:70%;
+}
+.cat-maps .grid-rooms, .cat-maps .grid-baths {
+    width:30%;
+}
+.cat-homepage .grid-offer-front, .grid-offer-back {
+    height:inherit;
+}
+
+
+.cat-non-maps .grid-area span, .cat-non-maps .grid-rooms span, .cat-non-maps .grid-baths span {
+    margin: 0 10px 0 15px;
+}
+.cat-non-maps .grid-area {
+    width:70%;
+}
+.cat-non-maps .grid-rooms, .cat-non-maps .grid-baths {
+    width:30%;
+}
+.cat-non-maps .list-price {
+    text-align:center;
+}
+
+.blog-text-address {
+	color:#333333;
+}
+
+@media only screen and (min-width: 768px)  {
+	.cat-non-maps .list-offer-right {
+		min-width: 585px;
+	}
+	.cat-non-maps .list-offer-right-large {
+		min-width: 878px;
+	}	
+}
+
+@media only screen and (min-width: 992px)  and (max-width: 1199px) {
+	
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+}
+
+@media only screen and (max-width: 767px) {
+	
+}
+
+@media only screen and (max-width: 480px) {
+	
+}

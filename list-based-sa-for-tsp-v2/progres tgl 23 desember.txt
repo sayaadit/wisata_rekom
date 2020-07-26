@@ -1,0 +1,19 @@
+Progres TA LBSA - Rekomendasi Wisata
+[To Do] 
+1. Nyambungin code Pyhton dan website
+2. Testing hasil model dan website
+3. Penulisan  
+
+[Doing]
+1. Track barangkali ada eror lagi di code LBSA nya. Supaya ntar pas nyambungin ke web hasilnya gak ngaco
+2. Coba bikin API dan set backend webnya 
+
+[Done]:
+1. Data yang matrik jarak, travel time, tarif dkk udah masuk codingan LBSA dan udah muncul hasilnnya
+2. Fix salah code pas kemarin bilang LBSA nya udah kelar. Ternyata ada sintaks code yang salah setelah baca papernya lagi
+3. Melakukan set DB dan bahasa di backend biar cocok untuk pyhton script
+
+Note: 
+Masih ada error di backend dan DB nya bang, jadi belom bisa selesai banget. Sori gak ke kejar buat jadi di hari ini bang.
+Jadi yang udah selesai paling si code pyhton LBSA yang dataset nya udah sesuai sama yg di code SA yang udah sempet digarap dulu.
+ 
